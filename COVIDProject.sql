@@ -3,7 +3,7 @@
 
 This project uses data from: https://ourworldindata.org/covid-deaths
 
-I wrote these querires to run on MySQL. 
+I wrote these queries to run on MySQL. 
 
 */
 
