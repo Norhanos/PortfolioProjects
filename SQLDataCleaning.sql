@@ -3,7 +3,10 @@
 
 DATA CLEANING PROJECT USING SQL 
 
-The dataset I used in this project comes from: https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor
+The dataset I used in this project comes from the following link and is called 'Uncleaned_DS_jobs.csv' : 
+https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor
+
+My final cleaned dataset as a result of the queries in this file could be found in the CleanedDSJobs.csv file. 
 
 The following is an overview of the steps I use to clean the data:
 
